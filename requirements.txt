@@ -1,0 +1,5 @@
+playwright==1.62.0
+pytest
+pytest-playwright
+allure-pytest
+python-dotenv
